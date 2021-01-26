@@ -5,4 +5,4 @@ def func(x):
     
     
 def test_method():
-    assert func(1) == 10
+    assert func(1) == 9
