@@ -3,3 +3,6 @@
   python: "3.8"
   before_install:
         - choco install python3
+  
+  script:
+        - pytest
