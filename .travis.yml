@@ -1,6 +1,6 @@
   os: windows
   language: sh
-  python: "3.8"
+  python: "3.7"
   before_install:
         - choco install python3
   
