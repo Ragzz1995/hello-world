@@ -3,4 +3,3 @@
   python: "3.8"
   before_install:
         - choco install python3
-        - python -m pip install --upgrade pip wheel
